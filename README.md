@@ -39,4 +39,4 @@ In menu use number keys (1 - 4) to change rocket skin <br>
 ![](./screenshots/SH3.png  "Play Screen 2")
 
 
-Last updated: 2026-10-24 22:54 UTC
+Last updated: 2026-10-25 00:51 UTC
