@@ -124,3 +124,5 @@ CI installs native development dependencies, configures CMake, and builds the ex
 - Graphics driver behavior and window availability are not tested by headless CI.
 
 See [architecture](docs/ARCHITECTURE.md), [build guide](docs/BUILD.md), [gameplay](docs/GAMEPLAY.md), [assets](docs/ASSETS.md), [testing](docs/TESTING.md), and [troubleshooting](docs/TROUBLESHOOTING.md).
+
+Last updated: 2026-11-13 19:39 UTC
