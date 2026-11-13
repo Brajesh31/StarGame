@@ -46,3 +46,5 @@ The existing `build.sh` assumes a pre-existing `cmake-build-debug` directory and
 The game appends scores to `save.txt` in the current working directory. Keep the working directory at the repository root so the relative asset paths under `assets/` resolve correctly.
 
 See [architecture](docs/ARCHITECTURE.md), [build guide](docs/BUILD.md), [controls and gameplay](docs/GAMEPLAY.md), and [testing](docs/TESTING.md).
+
+Last updated: 2026-11-13 19:34 UTC
