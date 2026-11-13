@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a reproducible build, rendering, or gameplay defect
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Build
+        - Rendering or assets
+        - Input
+        - Gameplay
+        - Score persistence
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: OS, compiler, CMake, and graphics environment
+    validations:
+      required: true
