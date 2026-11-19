@@ -125,4 +125,4 @@ CI installs native development dependencies, configures CMake, and builds the ex
 
 See [architecture](docs/ARCHITECTURE.md), [build guide](docs/BUILD.md), [gameplay](docs/GAMEPLAY.md), [assets](docs/ASSETS.md), [testing](docs/TESTING.md), and [troubleshooting](docs/TROUBLESHOOTING.md).
 
-Last updated: 2026-11-18 23:16 UTC
+Last updated: 2026-11-19 06:05 UTC
